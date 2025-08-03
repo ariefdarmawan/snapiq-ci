@@ -1,3 +1,7 @@
+# Configuration files with sensitive data
+app.yml
+**/app.yml
+
 # Environment files
 .env
 .env.local
