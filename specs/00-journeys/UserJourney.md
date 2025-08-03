@@ -17,7 +17,7 @@
 
 # 2 - Explore Trends / Search
 ## Requirement
-- Simple searching, keyword based
+- Simple searching, keyword and prompt based
 - Support for prompt searching 
 - Minimal product need to be curated to serve this ?
 
