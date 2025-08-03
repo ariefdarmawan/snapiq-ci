@@ -1,6 +1,6 @@
 # Configuration files with sensitive data
 app.yml
-**/app.yml
+devops/*/app.yml
 
 # Environment files
 .env
